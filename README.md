@@ -8,3 +8,4 @@ Spikes and broken robots will damage you.
 Berries will heal you.
 
 There is no window closing button, so just alt+f4 out of it :)
+![Ruby screenshot](https://user-images.githubusercontent.com/104794557/220721982-f579fcea-ec76-48f4-8603-f87bca303dfb.png)
